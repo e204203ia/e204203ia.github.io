@@ -1,0 +1,59 @@
+p{
+     color: #696969
+}
+h1{
+     color: #ff15ff; 
+    font-size: 60px;
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+   background-color: black;
+}
+table{
+    
+    　color: #FFCCFF; 
+    
+    fnt-family: "Impact";
+    text-align: center;
+     background-color: palegreen; 
+}
+
+
+h2{
+    
+      color: #ff15ff; 
+ 
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+   background-color: black;
+   
+    text-align: center;
+     background-color: palegreen; 
+    
+   
+  
+}
+li{
+  background-image : url(../images/09.jpg) ;  
+}
+h3{
+     color: #008080; 
+     
+}
+h4{
+     color: #008080; 
+    
+   
+}
+
+
+
+
+body{
+   background-image : url(../images/06.png) ;
+   
+     
+        
+    
+}
