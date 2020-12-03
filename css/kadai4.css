@@ -1,0 +1,62 @@
+
+h1#kudo{
+     color: #7fffd4; 
+    font-size: 60px;
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+   background-color: black;
+}
+h2#first{
+     color: papayawhip; 
+ 
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+   background-color: blue;
+}
+h2#akkun {
+    color: rebeccapurple; 
+ font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+   background-color: palevioletred;
+}
+h2#rupan {
+    color: lawngreen; 
+ font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+   background-color: yellowgreen;
+}
+p.bluecolor {
+color : blue;
+}
+h3{
+    
+      color: #008080; 
+    
+    font-family: "Impact";
+    text-align: center;
+    
+   background-color: palegreen; 
+     
+}
+h4{
+     color: #008080; 
+    
+   
+}
+
+
+
+
+body{
+   background-image : url(../images/06.png) ;
+   
+     
+        
+    
+}
+
+/
