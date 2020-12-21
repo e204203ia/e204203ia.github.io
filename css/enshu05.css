@@ -1,17 +1,61 @@
-<!doctype html>
-<html>
-　<head>
-　　<meta charset="utf-8">
-　　　<title>第5回演習</title>
-</head>
-<body>
-  <h1>見出し</h1>
-    <p>あいうえお</p>
-    <h1>
-        見出し2
-    </h1>
-    <p>
-        かきくけこ
-    </p>
-        </body>
-</html>
+div.title{
+    width:980px;
+    height:40px;
+    background-color: mediumseagreen;
+        text-align:left;
+    font-size:80px;
+    font-family:"impact";
+     margin-top:20px;
+    padding: 10px 0px 0px 20px;
+}
+div.article{
+    width:1000px;
+    height:100px;
+    background-color: bisque;
+        text-align:center;
+    font-size:15px;
+    font-family:"impact";
+}
+div.footer{
+    width:1000px;
+    height:50px;
+    background-color: cadetblue;
+        text-align:right;
+    font-size:40px;
+    font-family:"impact";
+    margin-top:20px;
+}
+span.menuitem{
+    
+    display:inline-block;
+     width:200px;
+    height:50px;
+    background-color: cornsilk;
+    font-size:30px;
+    font-family:"impact";
+    border:5px dotted blue;
+}
+span.image1{
+    display:inline-block;
+     width:300px;
+    height:200px;
+    background-color: black;
+  color:white;
+}
+
+span.image2{
+    display:inline-block;
+     width:300px;
+    height:200px;
+    background-color :black;
+  color:white;
+}
+span.image3{
+    display:inline-block;
+     width:400px;
+    height:200px;
+    background-color :black;
+  color:white;
+}
+
+
