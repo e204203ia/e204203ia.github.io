@@ -1,0 +1,106 @@
+
+div.title{
+    width:980px;
+    height:40px;
+    background-color: mediumseagreen;
+        text-align:left;
+   
+    font-family:"impact";
+    ;
+    padding: 10px 0px 0px 20px;
+      
+}
+div.images{
+    width:1000px;
+    height:320px;
+    background-color: cadetblue;
+        text-align:left;
+   
+    font-family:"impact";
+      margin-top:20px; 
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: cadetblue;
+        text-align:right;
+    
+    font-family:"impact";
+   margin-top:20px; 
+    
+}
+
+span.image1{
+    display:inline-block;
+     width:250px;
+    height:320px;
+    background-color: black;
+  color:white;
+    
+}
+
+span.image2{
+    display:inline-block;
+     width:700px;
+    height:320px;
+        float:right;
+    background-color :black;
+  color:white;
+    
+}
+span.image3{
+    display:inline-block;
+     width:250px;
+    height:100px;
+     float:right;
+       
+    background-color :red;
+  color:white;
+       
+}
+span.image4{
+    display:inline-block;
+     width:250px;
+    height:100px;
+     float:right;
+       
+    background-color :red;
+  color:white;
+    margin-top:10px;
+}
+span.image5{
+    display:inline-block;
+     width:250px;
+    height:100px;
+     float:right;
+       
+    background-color :red;
+  color:white;
+   margin-top:10px; 
+}
+span.image6{
+    display:inline-block;
+     width:700px;
+    height:300px;
+     float:right;
+       
+    background-color :blue;
+  color:white;
+}
+span.image7{
+    display:inline-block;
+     width:700px;
+    
+    height:20px;
+     float:right;
+       
+    background-color :fuchsia;
+  
+    font-size:18px;
+    color:black;
+}
+
+
+
+
