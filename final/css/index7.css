@@ -1,0 +1,127 @@
+div.title3{
+        width:1230px;
+    height:0px;
+    background-color: inherit;
+        
+    
+    font-family:"impact";
+   margin-top:15px; 
+
+}
+div.title{
+    width:1210px;
+    height:500px;
+    background-color: mediumseagreen;
+        text-align:left;
+   
+    font-family:"impact";
+    
+    padding: 10px 0px 0px 20px;
+      
+}
+div.akkun{
+     display:inline-block;
+     width:1200px;
+    height:400px;
+    background-color: green;
+  color:white;
+     margin-top:10px;
+}
+div.open{
+     width:1230px;
+    height:1500px;
+    background-color: honeydew;
+      
+    
+    font-family:"impact";
+   margin-top:0px; 
+    
+}
+div.footer{
+    width:1230px;
+    height:40px;
+    background-color: cadetblue;
+        text-align:right;
+    
+    font-family:"impact";
+   margin-top:15px; 
+
+}
+
+div.images{
+     text-align: center;
+}
+div.images{
+     text-align: center;
+}
+div.images1{
+     text-align: center;
+}
+span.image0{
+    display:inline-block;
+     width:200px;
+    height:55px;
+    font-size: 40px;
+    background-color: black;
+  color:white;
+     margin-top:10px;
+    
+}
+
+span.image1{
+    display:inline-block;
+     width:200px;
+    height:55px;
+    font-size: 40px;
+    background-color: black;
+  color:white;
+     margin-top:10px;
+    
+}
+
+span.image2{
+    display:inline-block;
+     width:200px;
+    height:55px;
+    font-size: 40px;
+    background-color :black;
+  color:white;
+}
+span.image3{
+    display:inline-block;
+     width:200px;
+    height:55px;
+    font-size: 40px;
+    background-color :black;
+  color:white;
+}
+span.image4{
+    display:inline-block;
+     width:205px;
+    height:55px;
+    font-size: 40px;
+    background-color: black;
+  color:white;
+}
+
+span.image5{
+    display:inline-block;
+     width:205px;
+    height:55px;
+    font-size: 40px;
+    background-color :black;
+  color:white;
+}
+
+
+    width:1210px;
+    height:200px;
+    background-color: mediumseagreen;
+        text-align:left;
+   
+    font-family:"impact";
+    
+    padding: 10px 0px 0px 20px;
+    margin-top:10px;   
+   
+}
